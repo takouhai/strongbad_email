@@ -3,14 +3,12 @@ use rand::thread_rng;
 use serde::Deserialize;
 use toml;
 
-static SBEMAILS_FILE: &'static[u8] = include_bytes!("sbemails.toml");
-
-#[derive(Debug, Deserialize)]
+#[derive(Deserialize)]
 struct Sbemails {
     emails: Vec<Emails>,
 }
 
-#[derive(Debug, Deserialize)]
+#[derive(Deserialize)]
 struct Emails {
     number: u8,
     title: String,
@@ -18,9 +16,8 @@ struct Emails {
 
 fn main() {
     println!("Preeeeow, world.");
-    let sbemails: Sbemails = toml::from_str(
-            std::str::from_utf8(SBEMAILS_FILE).unwrap()
-        )
+    let the_paper = include_str!("sbemails.toml");
+    let sbemails: Sbemails = toml::from_str(the_paper)
         .expect("failed to deserialize sbemails.toml");
     let mut random_number = thread_rng();
     let sbemail = sbemails.emails.choose(&mut random_number).unwrap();
