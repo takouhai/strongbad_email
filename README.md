@@ -1,7 +1,9 @@
 # strongbad_email
 
 > strong bad underscore email dot exe.
+>
 > enter.
+>
 > _- Strong Bad, [sbemail #68: caper](https://www.youtube.com/watch?v=HBUP2jAPExU)_
 
 A CLI app that prints a random [Strong Bad Email](https://homestarrunner.com/sbemails), written in Rust.
