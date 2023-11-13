@@ -2,7 +2,20 @@
 
 A CLI app that prints a random [Strong Bad Email](http://www.hrwiki.org/wiki/Strong_Bad_Email), written in Rust.
 
+## Install
 
+You will need rustc/cargo installed. Then, install the package from Codeberg:
+
+```
+cargo install strongbad_email --git https://codeberg.org/takouhai/strongbad_email.git
+```
+
+then just run
+
+```
+strongbad_email
+```
+and you should be good to go.
 
 ## License 
 
