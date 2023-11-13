@@ -12,6 +12,7 @@ struct Sbemails {
 struct Emails {
     number: u8,
     title: String,
+    content: String,
 }
 
 fn main() {
@@ -23,5 +24,6 @@ fn main() {
     let sbemail = sbemails.emails.choose(&mut random_number).unwrap();
     println!("sbemail number: {:?}", sbemail.number);
     println!("sbemail title: {:?}", sbemail.title);
+    println!("sbemail content: {:?}", sbemail.content);
 }
 

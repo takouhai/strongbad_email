@@ -1,628 +1,2715 @@
+
 [[emails]]
 number = 1 
 title = "some kinda robot"
+content = """
+Dear Strong Bad,
+Do you take your wrestling mask and boxing
+gloves off before you go to bed?
+Sincerely,
+Abdi LaRue
+San Diego, CA
+"""
+
 [[emails]]
 number = 2 
 title = "homsar"
+content = """
+Hi Strong Bad,
+If you hate Homsar so much,
+why don't you kill him?
+-Vinnie C.
+"""
+
 [[emails]]
 number = 3 
 title = "butt IQ"
+content = """
+Dear Mr Bad,
+How do you know if someone's butt is stupid?
+I mean, is there like some kind of IQ test?
+Crapfully yours,
+Tyler
+"""
+
 [[emails]]
 number = 4 
 title = "homestar hair"
+content = """
+Homestar Hair
+downloading...
+"""
+
 [[emails]]
 number = 5 
 title = "making out"
+content = """
+Dear Strong Bad..,
+Do you like making out? Because my boyfriend
+won't... mostly because he's jealous of you.
+I've tried the whole Peter Frampton thang,
+but nothing seems to work out. Please help
+me Strong Bad...
+Kissless in Santa Rosa
+"""
+
 [[emails]]
 number = 6 
 title = "depressio"
+content = """
+Dear Strong Bad,
+Tell Strong Sad he is dumb and a crappy guy ,
+Your fan,
+Anthony
+from South Gate CA
+"""
+
 [[emails]]
 number = 7 
 title = "halloweener"
+content = """
+Dear Strongbad,
+I want to have the bestest halloween
+costume ever this year. How can I make
+a strongbad costume?
+With crap,
+Ben from Ohio University
+"""
+
 [[emails]]
 number = 8 
 title = "brianrietta"
+content = """
+Dear Strong Bad,
+Every time I watch a cartoon with you in it,
+I can't help but realize how incredibly gorgeous
+you are. I love the way you walk around without
+your shirt on so confidently. Anyways, I
+was wondering if you would like to go
+out sometime. Give me a call, Pom-
+Pom has my number.
+
+Hopefully yours,
+Brian
+"""
+
 [[emails]]
 number = 9 
 title = "i love you"
+content = """
+i love u
+-fhqwhgadshgnsdhjsdbkhsdabkfabkveybvf
+"""
+
 [[emails]]
 number = 10 
 title = "trevor the vampire"
+content = """
+Hi strong bad. This is Trevor from Hampden
+Maine and I was wondering if you could teach
+me how to be as awesome as you. I am a
+vampire and
+"""
+
 [[emails]]
 number = 11 
 title = "i rule"
+content = """
+If you are so evil, how come you don't rule
+the world or at least some kind of field?
+
+Mike, UK
+"""
+
 [[emails]]
 number = 12 
 title = "credit card"
+content = """
+Dear Mr. Bad
+
+We regret to inform you that your credit card
+has expired. To keep your account, we will need
+you to send your old credit card number and
+expiration date, as well as a new one so we can
+make the change. We promise we are real and
+not just trying to steal your money.
+
+John, and some other people
+who aren't scam artists
+"""
+
 [[emails]]
 number = 13 
 title = "i she be"
+content = """
+hey my name is great looking girl strong bad!
+i she be your girlfriend.
+"""
+
 [[emails]]
 number = 14 
 title = "duck pond"
+content = """
+dear strong bad,
+do you ever feed the ducks? personally i think feeding
+the ducks is the greatest thing in the world. what are
+your thoughts on this subject?
+
+your friend,
+ron kiwi
+"""
+
 [[emails]]
 number = 15 
 title = "the basics"
+content = """
+Dear strong bad,
+
+how do you do it . teach me some of your trick's.
+
+With crap,
+T.J.
+"""
+
 [[emails]]
 number = 16 
 title = "band names"
+content = """
+hey strong bad,
+help us come up with a name for our band. i was
+thinking about 'invisible robot fish' or 'for good or
+for awesome.' hurry up please, we have our first
+show tomorrow.
+you rule
+- dan
+"""
+
 [[emails]]
 number = 17 
 title = "studying"
+content = """
+Dear Strong Bad,
+My girlfriend is really annoying because she calls
+me when I'm trying to study. What should I do?
+
+Crapfully yours,
+Roy
+"""
+
 [[emails]]
 number = 18 
 title = "stand-up"
+content = """
+dear strong bad,
+ur a real, funy guy. have you ever done any
+stand up comidic stuff?
+
+crapfully crappy,
+joe p.
+"""
+
 [[emails]]
 number = 19 
 title = "tape-leg"
+content = """
+Dear strong bad,
+my brothers are always telling me that your
+legs are made of tape, is that true?
+-Nicolas
+"""
+
 [[emails]]
 number = 20 
 title = "spring cleaning"
+content = """
+Dear Strong Bad,
+Why do you hate Homestar so much? He seems
+like a nice guy to me.
+Caitlyn
+"""
+
 [[emails]]
 number = 21 
 title = "cartoon"
+content = """
+dear mr bad
+make a cartoon with only u in it and then
+just u do the commentary
+crapful
+geroge
+"""
+
 [[emails]]
 number = 22 
 title = "sb_email 22"
+content = """
+Hi Strong Bad,
+
+I'm from England. What do you think of
+the English?
+
+Thank you,
+Mark
+"""
+
 [[emails]]
 number = 23 
 title = "little animal"
+content = """
+What would you do if a little animal came
+up to you.
+
+crapfully yours,
+Ashley and Anthony
+"""
+
 [[emails]]
 number = 24 
 title = "the bird"
+content = """
+DEAR STRONG BAD,
+IS IT HARD TO FLIP SOMEONE
+OFF WiTH BOXING GLOVES ON?
+VERY CRAPFULLY:
+PHYLO D
+"""
+
 [[emails]]
 number = 25 
 title = "super powers"
+content = """
+Is that blue diamond kinda thing on your
+forehead the source of all your super
+powers? Or is it merely decorative?
+
+Aaron C.
+"""
+
 [[emails]]
 number = 26 
 title = "CGNU"
+content = """
+dear strong bad,
+
+i want to be a graduate of Crazy Go Nuts
+University, just like you. Please let me know
+how i can accomplish this goal.
+thank you.
+
+Margo
+"""
+
 [[emails]]
 number = 27 
 title = "3 wishes"
+content = """
+Dear Strong Bad,
+If you had three wishes, what would the second
+one be?
+
+Much Crap,
+Brandon Hofer
+Judson College
+Elgin, IL
+"""
+
 [[emails]]
 number = 28 
 title = "1 step ahead"
+content = """
+hello strong bad,
+don't you think it would be funny if you glued
+strong sad's hands to his face? I think it would be...
+
+alex
+medford, nj
+"""
+
 [[emails]]
 number = 29 
 title = "superhero name"
+content = """
+Dear Strong bad:
+
+Why is it that your superhero name does not end
+in "man" just like Superman, Spiderman. etc, etc...
+
+Your friend
+
+Stiny
+"""
+
 [[emails]]
 number = 30 
 title = "12:00"
+content = """
+Strong Bad,
+My vcr keeps blinking 12:00 over and over. Do you
+have any suggestions on how to fix it?
+
+Thankyou,
+Cory Dewey-Smith
+"""
+
 [[emails]]
 number = 31 
 title = "sugarbob"
+content = """
+DEAR STRONGBAD
+MY GIRLFRIEND WON'T TALK TO ME ANYMORE
+BECAUSE SHE IS IN LOVE WITH YOU. I DON'T
+KNOW WHAT TO DO, MAYBE YOU COULD TELL
+HER THAT I AM COOL AND YOU ARE TAKEN.
+SINCERELY
+YOUR JEALOUS FAN,
+DANIEL
+"""
+
 [[emails]]
 number = 32 
 title = "flag day"
+content = """
+Hey Strong Bad,
+
+Happy Flag Day! I bet you have a totally awesome
+flag for Strong Badia. You should share it with us.
+
+Your pal,
+Pablo
+Phoenix
+"""
+
 [[emails]]
 number = 33 
 title = "gimmicks"
+content = """
+Dear Strong Bad,
+
+Do you remember when you would answer emails and
+be funny without some sort of gimmick? I do, I miss
+those days.
+
+With a lot of crap,
+
+Mike W
+Everett, MA
+"""
+
 [[emails]]
 number = 34 
 title = "weird dream"
+content = """
+what is the weirdest dream
+you've ever had?
+
+-marie
+"""
+
 [[emails]]
 number = 35 
 title = "sisters"
+content = """
+Strong Bad,
+My sister and me think you are so cool.
+Do you have a girlfriend? There is two of us.
+Yours,
+Ali
+"""
+
 [[emails]]
 number = 36 
 title = "guitar"
+content = """
+Hey Strong Bad whats up?
+
+Can you play the Guitar?
+
+Derek Highet
+Northern California
+"""
+
 [[emails]]
 number = 37 
 title = "dullard"
+content = """
+Strong Bad,
+How do I deal with the office dullard?
+Jason
+"""
+
 [[emails]]
 number = 38 
 title = "helium"
+content = """
+Dear Strong Bad,
+What do you sound like when you breathe helium?
+
+Shack
+Whittier
+"""
+
 [[emails]]
 number = 39 
 title = "property of ones"
+content = """
+Hey Strong Bad,
+
+How's it hanging? Last weekend I almost drank a one
+that was not cold. Has this ever happened to you?
+
+Dan Waters
+Dallas, TX
+"""
+
 [[emails]]
 number = 40 
 title = "vacation"
+content = """
+Dear Strong Bad,
+
+You must be a very busy man. You should think
+about a vacation.
+
+Filled with crap,
+BrothaCheese
+"""
+
 [[emails]]
 number = 41 
 title = "invisibility"
+content = """
+strong bad,
+
+what would you do if you were
+invisable for one day????
+
+sin studly17
+"""
+
 [[emails]]
 number = 42 
 title = "action figure"
+content = """
+Hey Strong Bad,
+
+If someone made a Strong Bad
+action figure, what kind of
+awesome stuff would it be able
+to do?
+
+Kyle Rechsteiner
+San Mateo, CA
+"""
+
 [[emails]]
 number = 43 
 title = "little questions"
+content = """
+Dear, Strong Bad!
+Here is some little questions:
+1. Has you some time play football?
+2. How did you seen out when you was a
+baby?
+3. How did you think you came's to
+seen out when you are wery old?
+
+Viklas
+Sweden
+"""
+
 [[emails]]
 number = 44 
 title = "lures & jigs"
+content = """
+Dear Strong Bad,
+
+When you go fishing, do you use any
+sort of special lure or jig to
+attract the fishs?
+
+David Jacobus
+Astoria, NY
+"""
+
 [[emails]]
 number = 45 
 title = "techno"
+content = """
+Hey Strong Bad, do you like techno at
+all? If you do, what kind.
+
+Silent J
+"""
+
 [[emails]]
 number = 46 
 title = "your friends"
+content = """
+WASSUP!
+
+YOU ARE AWESOME. I LIKE IT MOST WHEN
+YOU HARM YOUR FRIENDS.
+
+ANDREW
+"""
+
 [[emails]]
 number = 47 
 title = "new hands"
+content = """
+Hey Strong Bad,
+If you had both your hands removed at
+the wrists and could not have them
+replaced with prosthetic hands, what
+2 things would you have them replaced
+with?
+
+- Ryan
+Toronto
+"""
+
 [[emails]]
 number = 48 
 title = "ghosts"
+content = """
+Yo yo, Strong Bad!
+
+Are there any ghosts in Strongbadia?
+
+Your Favorite Cowboys,
+Josh, John & Doug
+Nashville, TN
+"""
+
 [[emails]]
 number = 49 
 title = "theme party"
+content = """
+Dear Strong Bad,
+
+I am the president of a fraternity,
+and I was wondering if you would come
+to our next party. It's gonna be a
+theme party, so it won't happen for
+awhile, until we can think of a good
+theme. Can you think of one? Thanks.
+
+Matt,
+Rochester, NY
+"""
+
 [[emails]]
 number = 50 
 title = "50 emails"
+content = """
+Email #1
+Dear strong bad,
+Can you please write a book about
+come-back jokes!
+Mike
+Canada
+"""
+
 [[emails]]
 number = 51 
 title = "website"
+content = """
+Dear Strong Bad.
+
+I want to start a new website but I
+don't have any ideas of what to do for
+my website. I was wondering if you
+could give me some ideas for my new
+website. This website will be cool and
+I'll e-mail you when I'm done.
+
+Sincerely Yours:
+James
+"""
+
 [[emails]]
 number = 52 
 title = "island"
+content = """
+Dear Strong Bad,
+
+What would you do if you where stuck
+on an desert island with Homestar
+Runner?
+
+Yami Yugi
+England
+"""
+
 [[emails]]
 number = 53 
 title = "comic"
+content = """
+Can you make a comic about my friends?
+Tey are totally obsessed with you.
+Their names are Virginia, Joy,
+Kristen, and Jennifer. I would really
+appriciate it.
+
+Thank You.
+
+Brittany
+"""
+
 [[emails]]
 number = 54 
 title = "morning routine"
+content = """
+Hey Strong Bad-
+
+Whats up? What is your morning
+routine?
+
+Mike S.
+Gibsonia, Pa
+"""
+
 [[emails]]
 number = 55 
 title = "cheat talk"
+content = """
+Dear Strong Bad,
+
+I think the Cheat is the coolest
+thing ever, but why can't I
+understand him? Please tell the
+Cheat to talk normal.
+
+Sincerely,
+
+Cory, North Dakota
+"""
+
 [[emails]]
 number = 56 
 title = "current status"
+content = """
+Hey man,
+I was just wondering what your
+current status with the ladies is?
+
+Jordan Reynolds
+New Hampshire
+"""
+
 [[emails]]
 number = 57 
 title = "japanese cartoon"
+content = """
+Dear Strong Bad,
+what would you look like as a
+japanese cartoon and what would
+it be about?
+
+-james f.
+"""
+
 [[emails]]
 number = 58 
 title = "dragon"
+content = """
+Hey Strong Bad,
+Can you draw a dragon? I want to see
+your skills of an artist.
+
+well, g2g,
+kaizer
+CA
+"""
+
 [[emails]]
 number = 59 
 title = "marzipan"
+content = """
+Strong Bad,
+So, if you're so good with the ladies,
+how come I never see you with any? The
+only female I've seen even near you is
+Marzipan, and she doesn't seem to
+like you very much.
+
+Ok, bye.
+Emily C., Ohio
+"""
+
 [[emails]]
 number = 60 
 title = "huttah!"
+content = """
+Dear Strong Bad,
+
+How come you never let The Cheat
+answer any emails?
+
+Lasko
+Milwaukee, WI
+"""
+
 [[emails]]
 number = 61 
 title = "monster truck"
+content = """
+Hey Strong Bad,
+
+Do you ever do TV commercials for
+Monster Truck Shows? I think you
+would be great for the voiceovers.
+
+Your devoted fans,
+
+Stan and Loretta
+"""
+
 [[emails]]
 number = 62 
 title = "interview"
+content = """
+What's up with Homsar? I know he's
+weird and all, but don't you think we
+deserve to know a bit more about him?
+I think you should do an interview so
+we can finally find out what his
+deal is.
+
+Kerrek
+PA
+"""
+
 [[emails]]
 number = 63 
 title = "fingers"
+content = """
+Dear Strong Bad,
+Why don't you add some fingers onto
+your boxing gloves so that people
+stop asking how you can type with
+boxing gloves on? They wouldn't have
+to be permanent. They'd be like the
+phony antennae you buy at the joke store
+or costume place.
+
+Yours,
+Lee Conrad
+Edmonton, Alberta
+"""
+
 [[emails]]
 number = 64 
 title = "english paper"
+content = """
+Dear Strong Bad,
+Right now I am putting off writing a
+paper for my English class. Can you
+write my Englilsh paper for me? I
+don't even care if it's good or not,
+I just don't want to do it.
+
+Kyle Smith,
+Manhattan, Kansas
+"""
+
 [[emails]]
 number = 65 
 title = "unused emails"
+content = """
+Hey Strong Bad,
+I was wondering what you do with the
+emails that don't get showed on the
+weekly email.
+
+Dan Chase,
+Aurora, Illinois
+"""
+
 [[emails]]
 number = 66 
 title = "the show"
+content = """
+Dear Strong Bad,
+
+My friends and I are at a volleyball
+tounament and we were wondering how
+come homestar never does anything
+funny anymore?
+
+your friend,
+Tori From VA, TX
+"""
+
 [[emails]]
 number = 67 
 title = "autobiography"
+content = """
+Hey Strong Bad!
+Have you ever considered writing a
+biography on your life? I think it
+would be a very cool idea since
+everyone likes you anyway. I mean,
+no one wants to read about a boring
+person, like Strong Sad, or anything
+like that.
+
+Dan, PA
+"""
+
 [[emails]]
 number = 68 
 title = "caper"
+content = """
+Dear Strong Bad,
+
+Why don't you and The Cheat pull a
+caper of some sort. It seems like
+there has been little cooperation
+between the two of you as of late.
+
+James
+Detroit Mi
+"""
+
 [[emails]]
 number = 69 
 title = "personal favorites"
+content = """
+Hey Strong Bad,
+
+You have done so many of these
+e-mails which one would you say is
+the best, or your personal favorite.
+
+Thanks,
+HockeymanJ05
+"""
+
 [[emails]]
 number = 70 
 title = "big white face"
+content = """
+Dear Strong Bad,
+
+Why are you so mean to the guy with
+the big white face and gray body?
+
+Jen C from Millbrae , CA
+"""
+
 [[emails]]
 number = 71 
 title = "2 emails"
+content = """
+Hey Strong Bad,
+I think that you should do more
+e-mails every week. Like two. Then
+we could have double the Strong Bad,
+and double the fun.
+
+Jimmy, MN
+"""
+
 [[emails]]
 number = 72 
 title = "crazy cartoon"
+content = """
+Hi strong bad!
+I wanted to know what your craziest
+cartoon would be like. Please make a
+CRAZY cartoon.
+
+Your awesome friend monkeydude
+"""
+
 [[emails]]
 number = 73 
 title = "mascot"
+content = """
+Dear Strong Bad,
+
+I was wondering what CGNU's mascot
+is, and if they have any sports teams.
+Thanks for the info.
+
+Ike
+"""
+
 [[emails]]
 number = 74 
 title = "privileges"
+content = """
+Dear strongbad,
+did you ever think about letting the
+cheat have some other privaleges
+since he helps you so much.
+
+from your friend crazyclemens
+"""
+
 [[emails]]
 number = 75 
 title = "funny"
+content = """
+Dear Strong Bad,
+
+Respond to this E-Mail in the
+funniest way ever.
+
+From Sam
+"""
+
 [[emails]]
 number = 76 
 title = "sibbie"
+content = """
+Dear Strong Bad,
+
+You rock! Your are the most awesomest
+thing ever, but how come you made a
+song about fhqwhgads? Will you make
+a song about me?
+
+Sibbie.
+"""
+
 [[emails]]
 number = 77 
 title = "suntan"
+content = """
+Hey Strong Bad,
+
+I thought you looked cute as a
+Japanese cartoon with the blue hair
+and everything. ^_~ I was thinking
+you might look even better if you got
+out in the sun and got a nice tan. I've
+heard that a nice tan really
+helps your muscles stand out.
+
+Meg,
+KS
+"""
+
 [[emails]]
 number = 78 
 title = "anything"
+content = """
+hi Strong Bad,
+have you ever made anything out of anything?
+bye
+Dan from FL
+"""
+
 [[emails]]
 number = 79 
 title = "the process"
+content = """
+Dear Strong Bad,
+How long does it to answer an e-mail?
+Can you show me the prosess?
+Em.
+"""
+
 [[emails]]
 number = 80 
 title = "stunt double"
+content = """
+Hello Strong Bad,
+I'm a long time watcher first time
+writer. I was wondering if you ever
+use a stunt double.
+
+Your whatever,
+Louis
+"""
+
 [[emails]]
 number = 81 
 title = "date"
+content = """
+Dear Strong Bad,
+
+Here's a question for ya. What do
+you think happens when Homestar and
+Marzipan go on a date?
+
+Dynomite
+Boston, MA
+"""
+
 [[emails]]
 number = 82 
 title = "impression"
+content = """
+Dear Strong Bad,
+
+Could you please do your impression
+of Strong Sad?
+
+Thanks,
+Your friend
+"""
+
 [[emails]]
 number = 83 
 title = "labor day"
+content = """
+Dear Strong Bad,
+
+I was wondering what you're doing
+for Labor Day.
+
+Your friend,
+Chrispy
+Schenectady, NY
+"""
+
 [[emails]]
 number = 84 
 title = "kids' book"
+content = """
+Dear Strong Bad,
+
+I was wondering if you have ever
+thought of a children's book,
+what it was about, and what kind of
+words did you try to teach the kids.
+
+Your fan,
+Steve Buttz
+"""
+
 [[emails]]
 number = 85 
 title = "2 years"
+content = """
+Strong Bad,
+I am going on a long trip and won't be
+able to check out "Homestar Runner's
+Website" for a long time. What do you
+think the greatest advancement for
+Strong Badia will be in the next 2
+years?
+
+Your Main Man,
+E. Fullmer
+"""
+
 [[emails]]
 number = 86 
 title = "no loafing"
+content = """
+Hey Strong Bad!
+
+Whatever happened to that "No Loafing"
+sign you used to have?
+
+Ryan, CO
+"""
+
 [[emails]]
 number = 87 
 title = "mile"
+content = """
+Dear Strong Bad,
+
+Can you run a mile.
+
+-Seb
+The Lodge, MN
+"""
+
 [[emails]]
 number = 88 
 title = "couch patch"
+content = """
+is there a story behiend the patch
+on the couch? if so, do tell!
+
+form,
+your pal
+"""
+
 [[emails]]
 number = 89 
 title = "local news"
+content = """
+Dear Strong Bad,
+Does Strong Badia have its' own local
+news even? If so, I hope it's better
+than my local news.
+
+Sincerely,
+Dan D. Tallahassee, FL
+"""
+
 [[emails]]
 number = 90 
 title = "colonization"
+content = """
+Hi Strong Bad!
+
+Do you celebrate thanksgiving
+normally? Or do you have special
+traditions for when Strong Badia was
+first colonized? What's the story
+about?
+
+From your Buddy,
+Shana Ma.
+Los Angeles, CA
+"""
+
 [[emails]]
 number = 91 
 title = "caffeine"
+content = """
+Dear Strong Bad,
+It must be really annoying living
+with someone as whiny as Strong Sad.
+Why don't you slip him some caffeine?
+
+Justin
+Murfreesboro, TN
+"""
+
 [[emails]]
 number = 92 
 title = "kind of cool"
+content = """
+Hey strong bad,
+Dude, I was just thinkin and wonderin
+what it would be like if you weren't
+the stylish, buff, handsome man in a
+wrestling mask that you are.
+
+Your devoted fan,
+Jordan
+"""
+
 [[emails]]
 number = 93 
 title = "army"
+content = """
+Hey strong bad,
+Dude, I was just thinkin and wonderin
+what it would be like if you weren't
+the stylish, buff, handsome man in a
+wrestling mask that you are.
+
+Your devoted fan,
+Jordan
+"""
+
 [[emails]]
 number = 94 
 title = "video games"
+content = """
+Hey Strong Bad,
+
+I was just wondering what you would
+be like in a video game and what it
+would be like.
+
+From,
+Taylor R.
+Queen Creek, AZ
+"""
+
 [[emails]]
 number = 95 
 title = "the bet"
+content = """
+Dear Strong Bad,
+Do you ever go over to The King of
+Town's place for dinner? If so,
+what's it like?
+
+Chris
+Ann Arbor, Michigan
+"""
+
 [[emails]]
 number = 96 
 title = "lackey"
+content = """
+Hey yo there Strong Bad!
+I was wondering why The Cheat is such
+a diligent lackey. Did you save his
+life one time and now he has to repay
+you?
+
+Steve
+Victoria, BC
+"""
+
 [[emails]]
 number = 97 
 title = "monument"
+content = """
+Hey there Strong Bad!
+I was thinking since so many people
+and ladies think you're SUPER COOL,
+why not build a monument to yourself
+for all to enjoy?
+
+Another fan,
+Kaitlin G.
+"""
+
 [[emails]]
 number = 98 
 title = "stupid stuff"
+content = """
+Hey Strong Bad,
+
+I think you should make Homestar say
+stupid stuff, his voice is hilarious!
+
+Sincerely,
+Kevin Grumbles
+"""
+
 [[emails]]
 number = 99 
 title = "different town"
+content = """
+Dear Strong Bad,
+
+I just wondering, if you had a chance
+to make your town different, what
+would you do?
+
+Sincerley
+Steven WV
+"""
+
 [[emails]]
 number = 100 
 title = "flashback"
+content = """
+Hey there, Strong Bad!
+I was wondering. How long have you
+known Homestar? Is there some sort of
+flashback that could describe how
+and when you guys met?
+Your Fan,
+Jon, NH
+"""
+
 [[emails]]
 number = 101 
 title = "car"
+content = """
+Dear Strong Bad,
+Do you Have a car If you do what Kind
+of car is it. Is it Pimped OUt?
+
+From Kyle
+in West Point , NY (Military Base)
+"""
+
 [[emails]]
 number = 102 
 title = "lunch special"
+content = """
+Hey Strong Bad,
+Get Bubs to give out free luncch
+specials and I'll show you a hot girl.
+
+Sincerly,
+Someone
+"""
+
 [[emails]]
 number = 103 
 title = "haircut"
+content = """
+Dear Strong Bad,
+Dude, who cuts your hair? It's
+sooo coull. I can't decide what to
+do with mine, any suggestions?
+
+Harry Earlenmacherg
+Düsseldorf
+"""
+
 [[emails]]
 number = 104 
 title = "theme park"
+content = """
+Dear strong bad,
+you are the coolest, any way onto
+buisness. i think that you should
+make your own theme park.
+
+crapfully crap,
+Rafael FL.
+"""
+
 [[emails]]
 number = 105 
 title = "replacement"
+content = """
+Dear Strong Bad,
+Have you ever thought who will take
+your place when you retire?
+
+Your friend,
+Jeffrey Desterhoft
+"""
+
 [[emails]]
 number = 106 
 title = "dangeresque 3"
+content = """
+hi there strong bad,
+
+i was just wondering, when is
+dangeresque 3 comeing out?
+
+yours truly,
+john newell, on
+"""
+
 [[emails]]
 number = 107 
 title = "cheatday"
+content = """
+Dear Strong Bad,
+what did you do for the Cheat's
+birthday party
+"""
+
 [[emails]]
 number = 108 
 title = "pom pom"
+content = """
+Dear Strongbad,
+
+What would happen if you poked
+Pom-Pom with a pin? Is that why I
+haven't seen him around in a while?
+
+Kevin
+OH
+"""
+
 [[emails]]
 number = 109 
 title = "crying"
+content = """
+YO Yo Strongbad,
+Hey Strongbad I was wondering if you
+have ever made homestar cry.
+DJ Solerous Australia
+"""
+
 [[emails]]
 number = 110 
 title = "for kids"
+content = """
+Coolest guy ever - - - Strong Bad,
+I've been wondering if you ever
+thought of making your own television
+series? Kids everywhere would love
+you, and your awesomeness.
+
+Allison , NJ
+"""
+
 [[emails]]
 number = 111 
 title = "other days"
+content = """
+dear strong bad,
+what do you do on all the other days
+of the week?
+sincerely,
+brian holmes CA
+"""
+
 [[emails]]
 number = 112 
 title = "old comics"
+content = """
+hey SB,
+why does the king of town have a
+poopsmith?
+
+your friend,
+zack
+west islip, NY
+"""
+
 [[emails]]
 number = 113 
 title = "pizzaz"
+content = """
+Hey Strong Bad,
+I'd like to know...what is the secret
+to your pizzaz? Why are you so cool?
+
+peace out dawg foo gangsta yo
+Ryan N.
+"""
+
 [[emails]]
 number = 114 
 title = "the facts"
+content = """
+Dear Strong Bad,
+
+I was just wondering, why doesn't
+Strong Mad have his own cartoon?
+
+Your fan,
+Jess G. OH
+"""
+
 [[emails]]
 number = 115 
 title = "time capsule"
+content = """
+dear STRONG bad,
+you are extremely awesome but how are
+you going to be soooo awesome if you'rre
+dead? why not make a time capsule of
+stuff filled with stuff about you to
+be opened in at least X0 years.
+please answer this,
+sam concord california
+"""
+
 [[emails]]
 number = 116 
 title = "extra plug"
+content = """
+Dear S to the B,
+I noticed that you always have an
+extra plug socket open under your
+desk. Isn't there something cool you
+could plug in there?
+Simcity,
+Justin Corcoran, MASS
+"""
+
 [[emails]]
 number = 117 
 title = "montage"
+content = """
+Dear Strong Bad,
+Why don't you creat a montage?
+
+Steve
+Surf City, NJ
+"""
+
 [[emails]]
 number = 118 
 title = "virus"
+content = """
+ert+
+y76p; '0lu8jykee;u4p;e'/Rh
+Strong ba15456`-------++++++gf
++++++-//==========/*8901ikg
+"""
+
 [[emails]]
 number = 119 
 title = "animal"
+content = """
+subject: made up animal
+
+Dear Strong Bad,
+What would you like as if you were your own made up
+animal
+Sincerely,
+Spud Jr.
+"""
+
 [[emails]]
 number = 120 
 title = "radio"
+content = """
+subject: radio
+
+Dear Strong Bad,
+My friends are radio hosts. Any chance you could give
+them any pointers on what they can say/do on their show?
+bowing to you
+Fraser, Scotland
+"""
+
 [[emails]]
 number = 121 
 title = "part-time job"
+content = """
+subject: besides..
+
+Dear Strongbad,
+Do you do anything besides checking emails?
+
+Sincerely, Hunter
+"""
+
 [[emails]]
 number = 122 
 title = "dreamail"
+content = """
+subject: Perfect email
+
+Hey StrongBad
+I was just wondering: what do you look for in an email?
+Another words, describe that dream email that you would like
+to recieve one day.
+With lots of anticipation,
+Danny Gedgafov from Glenview, IL
+"""
+
 [[emails]]
 number = 123 
 title = "origins"
+content = """
+subject: a sticky question...
+
+Dear Strong bad,
+I have recently been wondering about the origin of the
+stick. Has it always been a good place for hanging out and
+making rendezvous?
+
+Luke, Eau Claire, WI
+"""
+
 [[emails]]
 number = 124 
 title = "secret recipes"
+content = """
+subject: family recipes
+
+Dear Strong Bad,
+When we grow up we want to be chefs. We wanted to know
+if you had any secret family recipes that you would want
+to share with us so....we can make them!
+
+-Melissa and Hillary (from NJ)
+"""
+
 [[emails]]
 number = 125 
 title = "rock opera"
+content = """
+subject: rock opera
+
+Strong Bad,
+I think it's high time you composed a rock opera. You
+simply owe it to society. What should it be about?
+That's up to you.
+Best Wishes,
+Anonymous Contributor
+Gambier, OH
+"""
+
 [[emails]]
 number = 126 
 title = "best thing"
+content = """
+subject: What's the best...
+
+Dear Strong Bad,
+How you doin'? I have three quick questions...
+1. What's the best thing you've ever seen?
+2. What's the best thing you've ever done?
+3. What's the best thing you've ever eaten?
+
+Later,
+Albin J. (from Maryland)
+"""
+
 [[emails]]
 number = 127 
 title = "long pants"
+content = """
+subject: Homestar's pants
+
+Dear Strongbad,
+Why doesn't homestar ever wear pants? It's kind of
+creepy how he walks around with no pants on all the time.
+Anyway, I think you should get him some pants, maybe some
+parachute pants would work...yeah, that would work. Or maybe
+some clown pants, I don't care, just get him some pants!
+Tootles!
+Clancy
+"""
+
 [[emails]]
 number = 128 
 title = "rampage"
+content = """
+subject: Overdue rampage
+
+Der Ong-stray Ad-bay,
+I thinks it's been entirely too long since you went on a
+rampage.
+Sincerely Peter,
+"""
+
 [[emails]]
 number = 129 
 title = "garage sale"
+content = """
+subject: garage sale=money!
+
+hey strong bad!
+I seriously think you need to have a garage sale!! I mean
+think of all da things you could get with all that money...
+
+cat (yeah that's my real name)
+"""
+
 [[emails]]
 number = 130 
 title = "do over"
+content = """
+subject: Just wondering...
+
+Dear Strongbad,
+What would you do different, if you could do it all over
+again?
+
+Crapfully yours,
+Richie Z
+Can-A-Duh
+"""
+
 [[emails]]
 number = 131 
 title = "boring (really)"
+content = """
+subject: bored...
+
+Dear Strongbad,
+Does it ever get boring where you live? Right now I am
+bored out of my mind.
+
+With lots of crap,
+Callie, Lake Jackson, TX
+"""
+
 [[emails]]
 number = 132 
 title = "modeling"
+content = """
+subject: modeling
+
+dear STRONG BAD!!!!!
+i think you're a pretty good looking guy. Have you ever
+considered doing some modeling?
+Yours truuly,
+Meghan, Albuquerque
+"""
+
 [[emails]]
 number = 133 
 title = "bottom 10"
+content = """
+subject: Bottom 10
+
+To Weak Bad
+What is your bottom 10?
+From someone stronger than you
+"""
+
 [[emails]]
 number = 134 
 title = "record book"
+content = """
+subject: records
+
+dear strong bad,
+i was wondering if you were in the record book. if so,
+what for?
+nathan, tx
+"""
+
 [[emails]]
 number = 135 
 title = "lady...ing"
+content = """
+subject: Ladies...
+
+Dear Strongest of the Bads,
+We are two desperate losers who could never get any
+ladies. Since you're such a lady expert, could you give us
+any tips on lady...ing.
+Your 2nd and 3rd best Friends Ever,
+Lorenzo and Fillbert
+"""
+
 [[emails]]
 number = 136 
 title = "geddup noise"
+content = """
+subject: question
+
+What ever happened to the get up noise? I think it
+was cool.
+
+Sincerely yours marc baroni AZ
+"""
+
 [[emails]]
 number = 137 
 title = "bedtime story"
+content = """
+subject: Bed-time Stories
+
+Hello Strong Bad,
+I can't seem to fall asleep latley and I was wondering,
+you know, if you would tell me a bedtime story.
+Good Night.
+- Justin Wagley
+Keller, TX
+"""
+
 [[emails]]
 number = 138 
 title = "space program"
+content = """
+subject: space program
+
+Dear Strongbad,
+Does Strongbadia have a space program?
+Doo doo crap,
+Ryan
+Raleigh, NC
+"""
+
 [[emails]]
 number = 139 
 title = "portrait"
+content = """
+subject: portrait
+
+Dear Strong Bad-
+I was wondering if you ever wanted to have somebody
+paint a portrait of  your greatness.
+guess what, it's-
+Dylan Bragers (aka Coolio da Fabio)
+Texas
+"""
+
 [[emails]]
 number = 140 
 title = "high school"
+content = """
+Subject: high school
+
+Hey Strong bad!
+What were you like during highschool?
+Sincerely,
+Patrick Cowiche WA
+"""
+
 [[emails]]
 number = 141 
 title = "death metal"
+content = """
+subject: death metal
+
+Dear Strong Bad,
+I'm in this death metal band at my school, and I am in need
+of some of your expert lyrical advice: what words sound
+really cool when you scream 'em at the top of your lungs?
+Dane
+Corvallis, OR
+"""
+
 [[emails]]
 number = 142 
 title = "secret identity"
+content = """
+subject: none
+
+Dear Strongbad,
+Do you have a secret Identity? cause you know that
+would be the kinda rockin' cool thing you'd have.
+Chris
+Laramie, Wy
+"""
+
 [[emails]]
 number = 143 
 title = "technology"
+content = """
+subject: little help, please
+
+Dear Strong Bad;
+I'm a middle school technology teacher. I would really
+appreciate it if you could come up with an introduction I
+could use for my new classes. Thanks.
+Jay
+Oswego NY
+"""
+
 [[emails]]
 number = 144 
 title = "narrator"
+content = """
+subject: narration
+
+Have you ever been the narrator for a movie?
+
+Grant Gossman from Minnesota.
+"""
+
 [[emails]]
 number = 145 
 title = "myths & legends"
+content = """
+subject: Hey Strongbad!
+
+Hey Strongbad,
+Does Strong Badia have any Mysterious Myths or
+Legendary Legends?
+Cephas
+Cornwall, CA
+"""
+
 [[emails]]
 number = 146 
 title = "pop-up"
+content = """
+subject: dream book
+
+Dear Strong Bad,
+I had a dream that my friend had a Strong Bad
+pop-up book. It was the book of my dreams.
+Kat
+Spokane, Wash.
+"""
+
 [[emails]]
 number = 147 
 title = "lady fan"
+content = """
+subject: extra cool
+
+Dear Strong Bad,
+My new lady fan does not like you so much. Should I
+just call it quits now or can you do something extra special
+cool to impress her?
+Buck Webb
+Houston, Tejas
+"""
+
 [[emails]]
 number = 148 
 title = "disconnected"
+content = """
+subject: sb!!!!
+
+Dear Strong Bad,
+If your head got disconnected and your head was rolling
+all over the place and you didn't even know were your
+body is or your head, what would you do?
+Jenny
+"""
+
 [[emails]]
 number = 149 
 title = "candy product"
+content = """
+subject: Candy
+
+Dear Strongbad
+I was wondering, if you are so famous, popular, and a
+chick-magnet how come you dont have any candy product...
+or food thing... to sell..............
+From somone thats not homestarrunnner
+"""
+
 [[emails]]
 number = 150 
 title = "alternate universe"
+content = """
+subject: alternate univer$e
+
+Dear Strong Bad,
+Got some ?'s for you:
+1. What would you do with a hundred million dollars?
+2. What would you do if you suddenly found yourself in
+an alternate universe somehow?
+Jody (not a girl), TX
+"""
+
 [[emails]]
 number = 151 
 title = "senior prom"
+content = """
+subject: prom
+
+Dear Strong Bad,
+I was wondering did you ever have a senior prom.
+If so, what was it like?
+Matt M. WA
+"""
+
 [[emails]]
 number = 152 
 title = "isp"
+content = """
+subject: ISP
+
+Dear Strong Bad,
+Since you answer emails, you must have some sort of
+internet, right? What kind of internet do you guys get in
+Strong Badia? Who runs it? Is it expensive?
+Your bestest buddy in the whole wide world,
+Gary, UK
+"""
+
 [[emails]]
 number = 153 
 title = "redesign"
+content = """
+subject: keeping life exciting
+
+dear strong bad,
+dude i am getting bored of the "no loafing" sign and blue
+paint.
+
+jamie ericson canada
+"""
+
 [[emails]]
 number = 154 
 title = "keep cool"
+content = """
+subject: Oh man,,,
+
+How hot is it right now in Strongbadia? We're boiling over
+here. What do you do to keep cool?
+
+Tom B
+Sunnyvale, CA
+"""
+
 [[emails]]
 number = 155 
 title = "theme song"
+content = """
+subject: theme song
+
+Dear Super Bad,
+It bugs me how your email show doesn't have a theme song.
+If it did have a theme song, your show would be a whole
+lot cooler.
+Jonathan Shaheen
+Ontario, Canada
+"""
+
 [[emails]]
 number = 156 
 title = "road trip"
+content = """
+subject: road trip
+
+Dear Fatty bad,
+Do you ever go on road trips with your gang?
+
+That guy, from that place
+"""
+
 [[emails]]
 number = 157 
 title = "trading cards"
+content = """
+subject: Trading Stong-gum
+
+Hey Strongbad-
+You should have trading cards...With a stick of gum in them.
+Nerdly yours,
+Daniel,
+N.S. CANADA
+"""
+
 [[emails]]
 number = 158 
 title = "cliffhangers"
+content = """
+subject: cliffhangers
+
+Dear Strong Bad,
+Resolve all the cliffhangers please.
+
+Thanks,
+Jake
+"""
+
 [[emails]]
 number = 159 
 title = "retirement"
+content = """
+dearest strong bad
+do you remember the email that you deleted
+the hardest
+sincerly
+josh
+oakland 
+"""
+
 [[emails]]
 number = 160 
 title = "coloring"
+content = """
+subject: bad crayon namers
+
+Dear awesome,
+have you ever thought how rediculous some crayon names are....I mean "blizzard blue"...thats stupid...and "Laser lemon"...???
+-much love
+Ter
+Andover,MN
+"""
+
 [[emails]]
 number = 161 
 title = "4 branches"
+content = """
+subject: stupidest
+
+Hey Strong Bad
+I was wondering what was the stupidest thing that Homestar
+ever did, said, or imagined???
+ur biggest fan
+Spanky elgrondo N.Y.
+"""
+
 [[emails]]
 number = 162 
 title = "the chair"
+content = """
+subject: the chair.
+D to the ear Strong Bad,
+That chair you're sitting on doesnt look very comfortable.
+When are you going to get a new, less hardwood, big,
+office manager-style comfy computer chair?
+Yours truely,
+Keith, PA
+"""
+
 [[emails]]
 number = 163 
 title = "what i want"
+content = """
+subject: decemberween
+
+Dear Strongbad,
+What do you want for Decemberween?
+your holiday spirit
+Talon Jendro
+Des Moines, IA
+"""
+
 [[emails]]
 number = 164 
 title = "looking old"
+content = """
+subject: looking old?
+
+Dear Strongbad,
+You really do look old, how old are you anyways?
+
+Your faithful fan,
+Andy Hsiao, Taiwan
+"""
+
 [[emails]]
 number = 165 
 title = "strong badathlon"
+content = """
+subject: the cheat
+
+Strong bad,
+For a long time i've been wondering.... How far can you
+throw the cheat? If you don't want to do that, could you
+beat the crud out of homestar for no reason?
+
+Lewis Rudkin
+Essex, England.
+"""
+
 [[emails]]
 number = 166 
 title = "unnatural"
+content = """
+subject: storms
+
+Hey Strongbad,
+
+'Sup, man? So I was just wonderin', does Strong Badia
+ever have natural disasters, like hurricanes 'n stuff?
+"""
+
 [[emails]]
 number = 167 
 title = "the movies"
+content = """
+subject: movie
+
+Dear Strong Bad,
+ I was at the movies last night and this little girl behind me
+wouldn't shut up! has that ever happened to you?
+Cooper
+Franklin TN.
+"""
+
 [[emails]]
 number = 168 
 title = "your funeral"
+content = """
+subject: funeral
+
+Dear Screaming Yellow Strong Bad,
+What do you think your funeral would be like?
+Sincerely Yours,
+Bibendum
+"""
+
 [[emails]]
 number = 169 
 title = "from work"
+content = """
+Dear Strong Bad,
+If you could have any job in the whole
+world, regardless of how much it pays, what
+would you have?
+From The Nitwon 
+"""
+
 [[emails]]
 number = 170 
 title = "rough copy"
+content = """
+subject: comics
+
+Dear Strongbad,
+I would like to Draw a few comics about you and the cheat.
+But 1st i'd need to know what type of promblems you and
+the cheat would be faced with. Once i get a rough copy i'd
+send it to you to see how you like it. I hope you interested.
+-Malinko-
+"""
+
 [[emails]]
 number = 171 
 title = "underlings"
+content = """
+subject: Handling Smelly Underling?
+
+Dear Strong Bad,
+I am a manager and I have been told I must talk to one
+of my underlings about their stench. As the foremost
+expert in dealing with smelly underlings, I ask you, what is
+the best way to go about this? I wish to do this with
+some tact & professionalism.
+Sincerely,
+PlasticDiverGuy
+Dartmouth, Nova Scotia
+"""
+
 [[emails]]
 number = 172 
 title = "more armies"
+content = """
+subject: Strong Badia's Army
+
+Mr Strong Bad
+I have three sons that wish to join the Strongbadia army.
+Do you have any pamphlets, brochures, video information
+that could assist.
+Yours,
+Paul, Perth
+Western Australia
+"""
+
 [[emails]]
 number = 173 
 title = "the paper"
+content = """
+subject: The Paper...
+
+Dear Strongbad,
+Is the Paper really quitting? Could you tell me the best
+moment that you had with the paper?
+Thank You
+Kyle Williams
+North Ogden, Utah
+"""
+
 [[emails]]
 number = 174 
 title = "mini-golf"
+content = """
+subject: miniature golf course
+
+Helllooooooo Strongbad,
+I was wondering if Strongbadia had a miniature golf
+course because I think it would be cool if Strongbadia
+had a miniature golf course.
+Hoping to play the Strongbadia miniature golf course soon,
+Somebody noone cares about in IA
+"""
+
 [[emails]]
 number = 175 
 title = "concert"
+content = """
+subject: concert
+
+Hey Strong Bad,
+Have you ever been to a concert? If you have what type
+of concert was it?
+Your Dragon,
+Trogdor *smiley face*
+"""
+
 [[emails]]
 number = 176 
 title = "hygiene"
+content = """
+subject: hygiene movie
+
+Dear Strongbad,
+In 5th grade I have to watch a lame hygiene movie. I was thinking you could make a better movie about hygiene than the cruddy school version.
+Your friend,
+John Katulla
+"""
+
 [[emails]]
 number = 177 
 title = "original"
+content = """
+subject: Another Actor
+
+Hails and Horns Strong Bad ,\\m/
+Have you ever been watching your favorite shows and
+sequels, and suddenly realized that your favorite character
+has been unscrupulously replaced with another actor?
+Nicholas & Antonio
+Lansing, Michigan
+"""
+
 [[emails]]
 number = 178 
 title = "bike thief"
+content = """
+subject: bike thieves
+
+Hey Strong Bad,
+I'm at college and I need to keep my bike from being
+stolen. I figure if I think like a thief, I can figure out
+how to protect it. So, how would you try to steal my bike?
+Virginia
+MI
+"""
+
 [[emails]]
 number = 179 
 title = "pizza joint"
+content = """
+subject: sbemails!!
+
+Hey there Strong Bad,
+As a typical college girl I was wondering if there is a
+pizza joint somewhere in Strongbadia...you know, if me and
+my girls wanted to come hang out sometime.
+Hopeful in Pennsylvania,
+Daphne
+"""
+
 [[emails]]
 number = 180 
 title = "slumber party"
+content = """
+subject: slumber parties
+
+Dear Strong Bad,
+I attended a slumber party and there was nothing but a
+lame game of Uno. I ask you, what types of slumber
+parties should one attend or ignore?
+Sincerely,
+Thomas O. from NY
+"""
+
 [[emails]]
 number = 181 
 title = "web comics"
+content = """
+subject: story ideas
+
+Hey Strong Bad,
+Me and some of my friends are thinking of doing a web
+comic together and I was wondering if you had any suggestions
+for us. Thanks a lot
+Gunkiller
+Standing right behind you
+"""
+
 [[emails]]
 number = 182 
 title = "business trip"
+content = """
+subject: have you ever? PLEASE!!
+
+Have you ever made a sbmail about a business trip or
+something serious? think about it.
+
+-ROXY~VA
+"""
+
 [[emails]]
 number = 183 
 title = "yes, wrestling"
+content = """
+subject: none
+
+Dear awesome Strong Bad.
+Could you please show us some of your awesome wrestling
+moves.
+Gardenboy
+Bfn SA
+"""
+
 [[emails]]
 number = 184 
 title = "diorama"
+content = """
+subject: Diorama
+
+Hey Strong Bad,
+I have to do some crappy, really stupid diorama this year.
+I want it to be bloody and gory, but it has to be "Middle
+School Appropriate", or whatever. Got any tips?
+Molly T.
+Charlotte, N.C.
+"""
+
 [[emails]]
 number = 185 
 title = "nightlife"
+content = """
+subject: strong bad email
+
+Hey mr S to the B
+I was wondering what the nightlife is like in strongbadia?
+What kinda hip clubs and fun hotspots are there to
+check out?
+Somekindaguy
+Josh CO
+"""
+
 [[emails]]
 number = 186 
 title = "environment"
+content = """
+subject: high time
+
+Dear Strong Bad,
+We realize that you are a busy fellow, but my friend and
+I cannot help but think that you could be doing more to
+help the environment. This is your planet too, you know.
+Lyd and Jules,
+ID and MO, respectively
+"""
+
 [[emails]]
 number = 187 
 title = "winter pool"
+content = """
+subject: drained pool
+
+Dear Strong Bad,
+What do you do with the pool during the winter? Do you
+drain it and use it for skateboarding or something?
+
+-J.Hazard, IN
+"""
+
 [[emails]]
 number = 188 
 title = "fan club"
+content = """
+subject: Sbemail Fan Club?
+
+Does your e-mail show have it''s own fan club? Whose the
+president of it? And what do they do?
+Best regards,
+David, Northern Ireland.
+"""
+
 [[emails]]
 number = 189 
 title = "pet show"
+content = """
+subject:pet show
+
+Haihai Strong Bad
+Have you ever thought of entering The Cheat in a pet show?
+Have fun,
+Sarah, QLD
+"""
+
 [[emails]]
 number = 190 
 title = "licensed"
+content = """
+subject: famous
+
+Ok Strong Bad, you and the Cheat are like famous now,
+but why haven't you licensed anything yet? Like where's the
+strong Bad novels and fluffy pillows, I need more Strong
+Bad in my day, come on man help me out!
+From yours truly
+Pilmple-Faced Bill from receiving
+"""
+
 [[emails]]
 number = 191 
 title = "buried"
+content = """
+subject: Ancient Ruins?
+
+Dear Strong Bad,
+Do you know whether or not there are ancient ruins
+buried deep under Strong Badia?
+Thanks,
+Paul M. Pasquella
+"""
+
 [[emails]]
 number = 192 
 title = "shapeshifter"
+content = """
+subject: email
+
+Dear Strongbad, if you could shapeshift, waht would you
+turn into?
+From Paxton Westergard Anacortes, Washington
+"""
+
 [[emails]]
 number = 193 
 title = "rated"
+content = """
+subject: Fav Movie?
+Dear Strong Bad,
+What is your favorite movie, and why? And where, if applicable.
+Sincerely
+L. Eftformat
+"""
+
 [[emails]]
 number = 194 
 title = "specially marked"
+content = """
+subject: cerial box toys
+
+Hey ho, Strongbad.
+What kind of free toys would you put in specially marked
+cerial boxes?
+PB
+Over the hills
+"""
+
 [[emails]]
 number = 195 
 title = "love poems"
+content = """
+subject: love poem
+
+Dear Mr. Strong [Bad],
+I am in love. Unfortunately, I am absotively blunderous with
+my words which I speak. Will you help me write a love poem?
+Sincerely,
+Just Another Hopeless Romantic
+"""
+
 [[emails]]
 number = 196 
 title = "hiding"
+content = """
+subject: hide n seek
+
+Dear Dude,
+What is your awesome hiding place whenever you play
+hide n' seek. I'm sure you can just stand somewhere and
+noone can find you right.
+Awesomely Yours,
+Dude 1
+Scarlet, MO
+"""
+
 [[emails]]
 number = 197 
 title = "your edge"
+content = """
+subject: a little concerned
+
+Hey Strongbad-
+I'm a little worried that you may be losing your edge. I
+heven't seen any shennanigans from you or The Cheat in
+a while.
+Yours, etc
+Gee Tee, Los Burbankos, CA
+"""
+
 [[emails]]
 number = 198 
 title = "magic trick"
+content = """
+subject: Srongbad email
+
+Hey. I am a girl from sweden and like magic. Could you do
+a magic trick? I would be so happy, and maybe visit some
+day. Her are a tips to you: Take homestar runner in a box
+and take a saw and saw him.
+From Agnes in sweden!
+"""
+
 [[emails]]
 number = 199 
 title = "being mean"
+content = """
+subject: being nice
+
+Dear Strong Bad,
+I know you think being mean is fun, but I'm trying to teach
+my kids that that isn't right. Can you say something about
+being nice and point out why being mean isn't always the
+best choice. Thanks!
+-Nice Dad
+"""
+
 [[emails]]
 number = 200 
 title = "email thunder"
+content = """
+subject: college girls?
+
+Dear Homestar,
+Me and all of my young college friends that live in my dorm were just wondering if you wanted to come over and have a pillow fight sometime because we think you are sooooooo very cool.
+All the college dorm girls at MO
+Hannah, Micah, Rachel, Sally, Peggy, Vicky, Amber,
+and all the rest of use
+"""
+
 [[emails]]
 number = 201 
 title = "hremail 3184"
+content = """
+subject: coolness
+
+Dear Strong Bad,
+What was the coolest explosion you ever saw?
+
+From,
+Kelly
+USA
+"""
+
 [[emails]]
 number = 202 
 title = "imaginary"
+content = """
+Dear Strong Bad,
+my brother had a friend over today and he drove
+me crazy!! What should I do about it?
+
+Crudfully, Henry Wisner  WI 
+"""
+
 [[emails]]
 number = 203 
 title = "independent"
+content = """
+Dear Strong Bad,
+Does Strong Badia ever host an independent film
+festival?
+-=Evil Gif=-
+Phoenix, Arizona 
+"""
+
 [[emails]]
 number = 204 
 title = "dictionary"
+content = """
+Dear Strong Bad,
+You are the superest, awesomest guy ever. That
+makes you sawesome. Do you have a Strong Badian
+dictionary fo your own words?
+Sincerely Yours,
+Costrick 
+"""
+
 [[emails]]
 number = 205 
 title = "videography"
+content = """
+To Whom It May Concern; (aka Strong Bad)
+I'm getting married in August. I'm looking to hire
+a "videographer" to videotape our wedding. Could
+you use all your skills and powers and take on such
+a task? I want it to look real nice.
+Robert McSwain
+Video Media Technologist
+ITS Department 
+"""
+
 [[emails]]
 number = 206 
 title = "sbemail 206"
+content = """
+Dear Strong Bad,
+Do you enloy reasing?
+I do two! How 'bou?
+-The Tawdry Man 
+"""
+
 [[emails]]
 number = 207 
 title = "too cool"
+content = """
+Dear SB,
+Why doesn't Senor Cardgage have a video in the
+Characters section? Is he too cool to be on
+camera?
+Woefully yours,
+Kristian WithaK 
+"""
+
 [[emails]]
 number = 208 
 title = "the next april fools thing"
+content = """
+Dear Strong Bad,
+what do you do to keep up your personal
+motivation and inspiration?
+Sincerely, Mollie B. 
+"""
+
 [[emails]]
 number = 209 
 title = "parenting"
+content = """
+S to the Bad,
+I'm about to become a Dad but I don't know the
+first thing about raising a kid. Do you have
+any tips or suggestions on how best to care for
+a baby?
+Mike
+Riverview, FL 
+"""
 
