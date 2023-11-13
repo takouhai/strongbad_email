@@ -1,6 +1,6 @@
 # strongbad_email
 
-A CLI app that prints a random [Strong Bad Email](http://www.hrwiki.org/wiki/Strong_Bad_Email), written in Rust.
+A CLI app that prints a random [Strong Bad Email](https://homestarrunner.com/sbemails), written in Rust.
 
 ## Install
 
