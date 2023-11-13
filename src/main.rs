@@ -17,8 +17,8 @@ struct Emails {
 
 fn main() {
     let the_paper = include_str!("sbemails.toml");
-    let sbemails: Sbemails = toml::from_str(the_paper)
-        .expect("failed to deserialize sbemails.toml");
+    let sbemails: Sbemails =
+        toml::from_str(the_paper).expect("failed to deserialize sbemails.toml");
     let mut random_number = thread_rng();
     let sbemail = sbemails.emails.choose(&mut random_number).unwrap();
     println!("sbemail #{}: {}", sbemail.number, sbemail.title);
@@ -27,4 +27,3 @@ fn main() {
         println!("{}", part);
     }
 }
-
